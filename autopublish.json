@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "upstream": {
+    "git": "https://github.com/danvk/dygraphs.git",
+    "release": "master",
+    "versionFile": "package.json"
+  },
+  "hook": {
+    "repoFullName": "danvk/dygraphs"
+  }
+}
